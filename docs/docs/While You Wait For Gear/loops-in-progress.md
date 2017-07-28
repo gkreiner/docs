@@ -194,3 +194,4 @@ List of people who are working on closed loops:
 - Darryl Schick (PA)
 - Nadine Pedersen (Vancouver, Canada)
 - Beno Schechter (Coral Gables, FL)
+- Gideon Kreiner (Petah Tikva, Israel)
